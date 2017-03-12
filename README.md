@@ -1,8 +1,7 @@
 # Broadcast
 It´s a automatic Broadcast Plugin for Pocketmine
 
-
-[URL="https://poggit.pmmp.io/ci/McpeBooster/Broadcast/Broadcast+-+McpeBooster"][IMG]https://poggit.pmmp.io/ci.badge/McpeBooster/Broadcast/Broadcast+-+McpeBooster[/IMG][/URL]
+[![Poggit-CI](https://poggit.pmmp.io/ci.badge/McpeBooster/Broadcast/Broadcast+-+McpeBooster)](https://poggit.pmmp.io/ci/McpeBooster/Broadcast/Broadcast+-+McpeBooster)
 
 Kontaktdaten:
 
